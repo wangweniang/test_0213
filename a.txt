@@ -6,3 +6,4 @@ second line
 6th line
 7th line
 new color 1
+new color 2  by color
