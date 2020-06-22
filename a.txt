@@ -8,3 +8,5 @@ second line
 new color 1
 new maseer by master
 new color 2  by color
+new line edit by newPerson
+
